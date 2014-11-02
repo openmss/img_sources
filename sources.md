@@ -10,5 +10,5 @@
 | Walters Art Museum | <http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html> | 3000PPI TIF files |   CC-BY-SA, see <http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html> |  individual images | none |
 | Metropolitan Museum of Art, Image Resources | <http://www.metmuseum.org/research/image-resources> | jpgs (unknown resolution?)|Non-commercial reuse permitted with attribution, see<http://www.metmuseum.org/information/terms-and-conditions> | individual images |  none? |  
 | Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUG) | <http://www.slub-dresden.de/sammlungen/handschriften/> | pdfs | Creative Commons Lizenz BY-NC-ND 3.0, see <http://www.slub-dresden.de/ueber-uns/ddz/nutzungsbestimmungen/> | pdf of entire MS or of individual pages | yes (rdf?) |  
-
+| Heidelberg, Universitäts-Bibliothek |  <http://www.ub.uni-heidelberg.de/> (manuscripts page <http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html>) | pdfs at choice of two resolutions | CC-BY-SA | pdfs of entire MS | RSS feeds for individual sections, e.g., Bibliotheca Palatina <http://digi.ub.uni-heidelberg.de/diglit/rss?modus=incl&set=bibliotheca_palatina> or manuscripts <http://diglit.ub.uni-heidelberg.de/diglit/rss?set=handschriften>?|
 
