@@ -13,6 +13,7 @@
 | Heidelberg, Universitäts-Bibliothek |  <http://www.ub.uni-heidelberg.de/> (manuscripts page <http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html>) | pdfs at choice of two resolutions | CC-BY-SA | pdfs of entire MS | RSS feeds for individual sections, e.g., Bibliotheca Palatina <http://digi.ub.uni-heidelberg.de/diglit/rss?modus=incl&set=bibliotheca_palatina> or manuscripts <http://diglit.ub.uni-heidelberg.de/diglit/rss?set=handschriften>?|
 | Heinrich Heine Universität, Düsseldorf, Universitäts- und Landesbibliothek | <http://digital.ub.uni-duesseldorf.de/> | pdfs | License? | pdf of entire MS | | rss feed |  
 | Martin-Luther Universität Halle-Wittenberg,  Universität- und Landesbibliothek Sachsen-Anhalt| <http://141.48.65.178/hd/nav/classification/1406583> | pdf | license? | pdf of entire MS | ? |  
+| Westfälische Wilhelms-Univertät, Münster, Universitäts- und Landesbibliothek Münster | <http://sammlungen.ulb.uni-muenster.de/nav/classification/2163619> | pdf | license? | pdf of entire MS | ? |  
 
 
 
