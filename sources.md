@@ -8,5 +8,7 @@
 | Homer Multitext project | <http://www.homermultitext.org/hmt-archive.html> | Archival quality TIFF images. |   CC-BY-SA-NC, see <http://www.homermultitext.org/hmt-image-archive.html> |  individual images with md5 checksums | none |
 | Bayerische Staatsbibliothek | <https://www.bsb-muenchen.de/en/catalogues-databases/digital-collections/> | ?site off line on Oct. 31 2014 |   ?site off line on Oct. 31 2014 | site off line on Oct. 31 2014 | site off line on Oct. 31 2014 |
 | Walters Art Museum | <http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html> | 3000PPI TIF files |   CC-BY-SA, see <http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html> |  individual images | none |
-| Metropolitan Museum of Art, Image Resources | <http://www.metmuseum.org/research/image-resources> | jpgs (unknown resolution?)|Non-commercial reuse permitted with attribution, see<http://www.metmuseum.org/information/terms-and-conditions> | individual images |  none? |
+| Metropolitan Museum of Art, Image Resources | <http://www.metmuseum.org/research/image-resources> | jpgs (unknown resolution?)|Non-commercial reuse permitted with attribution, see<http://www.metmuseum.org/information/terms-and-conditions> | individual images |  none? |  
+| Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUG) | <http://www.slub-dresden.de/sammlungen/handschriften/> | pdfs | Creative Commons Lizenz BY-NC-ND 3.0, see <http://www.slub-dresden.de/ueber-uns/ddz/nutzungsbestimmungen/> | pdf of entire MS or of individual pages | yes (rdf?) |  
+
 
