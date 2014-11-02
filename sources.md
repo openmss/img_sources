@@ -14,6 +14,9 @@
 | Heinrich Heine Universität, Düsseldorf, Universitäts- und Landesbibliothek | <http://digital.ub.uni-duesseldorf.de/> | pdfs | License? | pdf of entire MS | | rss feed |  
 | Martin-Luther Universität Halle-Wittenberg,  Universität- und Landesbibliothek Sachsen-Anhalt| <http://141.48.65.178/hd/nav/classification/1406583> | pdf | license? | pdf of entire MS | ? |  
 | Westfälische Wilhelms-Univertät, Münster, Universitäts- und Landesbibliothek Münster | <http://sammlungen.ulb.uni-muenster.de/nav/classification/2163619> | pdf | license? | pdf of entire MS | ? |  
+| Universiteit Utrecht | <http://bc.library.uu.nl/> | pdf | license? | pdf of entire MS |  ? |  
+| Université de Toulouse | <http://tolosana.univ-toulouse.fr/> | pdf | license? | pdf of entire MS | ? |  
+
 
 
 
