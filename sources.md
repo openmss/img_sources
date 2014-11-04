@@ -16,7 +16,7 @@
 | Westfälische Wilhelms-Univertät, Münster, Universitäts- und Landesbibliothek Münster | <http://sammlungen.ulb.uni-muenster.de/nav/classification/2163619> | pdf | license? | pdf of entire MS | ? |  
 | Universiteit Utrecht | <http://bc.library.uu.nl/> | pdf | license? | pdf of entire MS |  ? |  
 | Université de Toulouse | <http://tolosana.univ-toulouse.fr/> | pdf | license? | pdf of entire MS | ? |  
-
+| Qatar Digital Library | <http://www.qdl.qa/en> | jpgs | public domain | ? | ? |
 
 
 
