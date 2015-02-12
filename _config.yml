@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            img_sources
+title:            Openly licensed images of manuscripts
 tagline:          'Sources for openly licensed images of manuscripts'
 description:      'Sources for openly licensed images of manuscripts'
 
@@ -21,8 +21,6 @@ paginate:         5
 
 github:
   repo:           https://github.com/openpaleography/img_sources
-
-version:          0.12.0
 
 links:
   - title: Open Paleography
