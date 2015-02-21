@@ -17,5 +17,15 @@ Submit other sources for openly-licensed images!  If you are a github user, you 
 ## See the current list ##
 
 
-- the [current list](https://github.com/openpaleography/img_sources/blob/master/sources.md), linked from the github repository
+- the [current list](https://github.com/openpaleography/img_sources/blob/master/sources.md) (linked from the github repository)
 
+
+## Other lists ##
+
+To identify sources for openly licensed images of manuscripts, it can be helpful to search within existing lists of images of manuscripts that do not include infomation about licensing.  Some useful lists include: 
+
+- ["Digitized Greek Manuscripts"](http://library.princeton.edu/byzantine/manuscript-title-list) from Princeton University Library
+- [Pinakes](http://pinakes.irht.cnrs.fr/) (Institut de recherche et d’histoire des textes, Paris)
+- [Manuscripta mediaevalia](http://www.manuscripta-mediaevalia.de/#|4) (die deutschen Handschriftenzentren, et al.)
+
+  
