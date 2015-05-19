@@ -22,7 +22,7 @@ urn:cite:openpal:srcs.e_codices,"Bern, Burgerbibliothek",4,http://www.e-codices.
 ,"Chicago IL, U of Chicago Library",42,http://goodspeed.lib.uchicago.edu/ms/index.php?doc=0972&obj=001
 urn:cite:openpal:srcs.e_codices,"Cologny, Fondation Martin Bodmer",10,http://www.e-codices.unifr.ch/en/list/one/cb/0085
 ,"Copenhagen, Royal Library",10,http://www.kb.dk/da/nb/materialer/haandskrifter/HA/e-mss/thott-2_45.html
-,"Dresden, Sächsische LB",74,http://digital.slub-dresden.de/werkansicht/dlf/14317/1/?tx_dlf%5Bpointer%5D=3
+urn:cite:openpal:srcs.dresden,"Dresden, Sächsische LB",74,http://digital.slub-dresden.de/werkansicht/dlf/14317/1/?tx_dlf%5Bpointer%5D=3
 ,"Dublin, Chester Beatty Library",11,http://csntm.org/Manuscript/View/GA_Lect_1030
 ,"Durham, NC, Duke University Library",38,http://library.duke.edu/digitalcollections/earlymss_emsgk01008/
 ,"Erlangen-Nürnberg, Universitätsbibliothek",2,http://bvbm1.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=5608102
@@ -30,7 +30,7 @@ urn:cite:openpal:srcs.e_codices,"Cologny, Fondation Martin Bodmer",10,http://www
 urn:cite:openpal:srcs.e_codices,"Geneve, Bibliotheque de Geneve",1,http://www.e-codices.unifr.ch/en/list/one/bge/gr0044
 ,"Glasgow, University of Glasgow Library",7,http://csntm.org/Manuscript/View/GA_561
 ,"Grottaferrata, Bibl. della Badia greca",2,http://www.wdl.org/en/item/11561/
-,"Heidelberg, UB",29,http://digi.ub.uni-heidelberg.de/diglit/cpgraec88
+urn:cite:openpal:srcs.heidelberg,"Heidelberg, UB",29,http://digi.ub.uni-heidelberg.de/diglit/cpgraec88
 ,"Iasi, Romania, Muzeul de literatura al Moldovei",1,http://csntm.org/Manuscript/View/noGA_Lect_Iasi_MuseumOfLit_7030
 ,"Jerusalem, Orthodox Patriarchate",1,http://csntm.org/Manuscript/View/GA_1315
 ,"Leicester, UK, Leicestershire Record Office",1,http://csntm.org/Manuscript/View/GA_69
@@ -43,7 +43,7 @@ urn:cite:openpal:srcs.e_codices,"Geneve, Bibliotheque de Geneve",1,http://www.e-
 ,"Madrid, Real Academia de la Historia",3,http://bibliotecadigital.rah.es/dgbrah/es/consulta/registro.cmd?id=89
 ,"Modena, Bibl. Estense universitaria",11,http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-alfa.w.9.12.html
 ,"Mt. Athos, Lavra",1,http://csntm.org/Manuscript/View/GA_1505
-,"Munich, BS",239,http://daten.digitale-sammlungen.de/%7Edb/0001/bsb00011281/images/index.html
+urn:cite:openpal:srcs.bsb,"Munich, BS",239,http://daten.digitale-sammlungen.de/%7Edb/0001/bsb00011281/images/index.html
 ,"Münster, INTF",24,http://csntm.org/Manuscript/View/GA_Lect_1578
 ,"Naples, BN",1,http://www.wdl.org/en/item/10690/
 ,"New Haven, Yale U. Library",29,http://brbl-dl.library.yale.edu/vufind/Record/3592288
