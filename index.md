@@ -10,14 +10,14 @@ To enable the central scholarly activities of review and replication of previous
 
 ## How you can contribute ##
 
-Submit other sources for openly-licensed images!  If you are a github user, you may directly edit a clone of the `sources.md` table and submit a pull request.  If you prefer, you may simply send an email to user `nsmith` at the email domain `holycross.edu`.
+Submit other sources for openly-licensed images!  If you are a github user, you may directly edit a clone of the `sources.csv` table and submit a pull request.  If you prefer, you may simply send an email to user `nsmith` at the email domain `holycross.edu`.
 
 
 
 ## See the current list ##
 
 
-- the [current list](https://github.com/openpaleography/img_sources/blob/master/sources.md) (linked from the github repository)
+- the [current list](https://github.com/openpaleography/img_sources/blob/master/sources.csv) (linked from the github repository)
 
 
 ## Other lists ##
