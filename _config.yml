@@ -23,9 +23,9 @@ github:
   repo:           https://github.com/openpaleography/img_sources
 
 links:
-  - title: Open Paleography
-    url: http://openpaleography.github.io
+  - title: Open Manuscripts initiative
+    url: http://openmss.github.io
     external: true
-  - title: Github project
-    url: https://github.com/openpaleography/img_sources
+  - title: Github repository for this project
+    url: https://github.com/openmss/img_sources
     external: true
